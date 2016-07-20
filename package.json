@@ -1,0 +1,14 @@
+{
+  "name": "sass-architecture",
+  "version": "0.1.0",
+  "author": "Punk",
+  "private": true,
+  "devDependencies": {
+    "matchdep": "*",
+    "grunt-contrib-sass": "*",
+    "autoprefixer": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-livereload": "*"
+  }
+}
